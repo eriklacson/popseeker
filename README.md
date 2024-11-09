@@ -1,2 +1,2 @@
-# popseeker
+# POPseeker
 POPSeeker
